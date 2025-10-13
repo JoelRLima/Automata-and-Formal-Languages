@@ -1,0 +1,6 @@
+Email: joao.silva@gmail.com
+Telefone: (11) 98765-4321
+CPF: 123.456.789-00
+Senha: 12345
+Site: https://www.exemplo.com
+Data de nascimento: 12/10/2000

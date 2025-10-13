@@ -1,0 +1,36 @@
+Assunto: atendimento - pedido 4321/2025
+De: suporte@empresa.com
+Para: joana.oliveira@cliente.com
+Data: 13/10/2025
+
+Olá Joana,
+
+Recebemos seu pedido 4321/2025 e abrimos o chamado em 12/10/2025.
+Um técnico entrou em contato pelo número (21) 99876-1234 e informou que haverá manutenção no dia 20/10/2025.
+
+Dados do cliente:
+Nome: Joana Oliveira
+CPF: 123.456.789-00
+CNPJ: 12.345.678/0001-90
+Data de nascimento: 05/05/1990
+
+Configs do servidor (não compartilhe):
+DB_USER=admin
+DB_PASS=supersecret123
+password = mypass@123
+api_key: AKIAIOSFODNN7EXAMPLE
+
+Pagamento:
+Cartão: 4111 1111 1111 1111
+Fatura vence em 15/11/2025
+
+Links úteis:
+https://portal.empresa.com/area-do-cliente
+www.docs.empresa.com/manual.pdf
+
+Log do sistema:
+[2025-10-13 14:23:12] ERROR: Falha na autenticação do usuário joana.oliveira@cliente.com desde 192.168.0.5
+[2025-10-13 14:25:01] INFO: Pedido 4321/2025 processado com sucesso
+
+Mensagem adicional:
+Por favor não compartilhar o CPF 123.456.789-00 com ninguém.
